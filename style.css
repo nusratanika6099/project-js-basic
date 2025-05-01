@@ -68,9 +68,13 @@ gap: 50px;
 .box{
     height: auto;
     width: 23%;
-    background-color: #101820FF;
+    background-color: #F2AA4CFF;
     margin-top: 15px;
     padding: 20px 0px 15px;
+    border-radius: 25px;
+    border: 1px solid #F2AA4CFF;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 }
 
 .box1-img{
@@ -124,13 +128,13 @@ gap: 50px;
 
 
 .box h2{
-    color: #F2AA4CFF;
+    color: #101820FF;
     text-align: center;
     font-size: 20px;
     margin-top: 10px;
 }
 .box p{
-    color: #F2AA4CFF;
+    color: #101820FF;
     text-align: center;
     font-size: 15px;
     margin-top: 10px;
